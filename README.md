@@ -1,7 +1,8 @@
-Hi there 👋
-I love programming, physics, and music
-I'm currently learning AI/ML
-How to reach me: tangnicholas26@gmail.com
+ - Hi there 👋
+ - I love programming, physics, and music
+ - I'm currently learning AI/ML
+ - How to reach me: tangnicholas26@gmail.com
+
 
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
