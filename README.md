@@ -1,6 +1,6 @@
 # About Me
 ## Education:
-- __**UCSC (Undergrad):**__
+- <ins>**UCSC (Undergrad):**</ins>
 - **Start**: September 2024
 - **Expected Graduation**: June 2027
 
