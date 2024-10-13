@@ -1,5 +1,6 @@
-# Education
-## UCSC (Undergrad):
+# About Me
+## Education:
+- UCSC (Undergrad):
 - Start: September 2024
 - Expected Graduation: June 2027
 
