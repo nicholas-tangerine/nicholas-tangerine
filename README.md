@@ -4,7 +4,7 @@
 - Start: September 2024
 - Expected Graduation: June 2027
 
-# Contact
+## Contact
 - Email: tangnicholas26@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nicholas-tang-41b928251/
 - GitHub: https://github.com/nicholas-tangerine/
