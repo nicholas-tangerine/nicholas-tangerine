@@ -8,7 +8,7 @@
 - **Email**: tangnicholas26@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/nicholas-tang-41b928251/
 - **GitHub**: https://github.com/nicholas-tangerine/
-- **Insta**: @nicholas.tang_
+- **Insta**: [@nicholas.tang_](https://www.instagram.com/nicholas.tang_/)
 
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
