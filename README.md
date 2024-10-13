@@ -1,8 +1,13 @@
- - Hi there 👋
- - I love programming, physics, and music
- - I'm currently learning AI/ML
- - How to reach me: tangnicholas26@gmail.com
+# Education
+## UCSC:
+- Start: September 2024
+- Expected Graduation: June 2027
 
+# Contact
+- Email: tangnicholas26@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicholas-tang-41b928251/
+- GitHub: https://github.com/nicholas-tangerine/
+- Insta: nicholas.tang_
 
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
