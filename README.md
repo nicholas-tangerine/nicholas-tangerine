@@ -9,9 +9,10 @@ please hire me 🥺🙏
 
 ## Education:
 - <ins>**UCSC (Undergrad):**</ins>
+- __B.S. Computer Science__
+- __Electrical Engineering Minor__
 - **Start**: September 2024
 - **Expected Graduation**: June 2027
-- **Relevant Coursework**:
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
