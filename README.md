@@ -8,7 +8,6 @@
   - Multivar Calc
   - Discrete Math
   - Computer Systems and Assembly Language
-  - 
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
