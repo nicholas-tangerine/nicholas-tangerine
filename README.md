@@ -1,7 +1,10 @@
 # About Me
-RESUME: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
+**RESUME**: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
 please hire me 🥺🙏
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## Education:
