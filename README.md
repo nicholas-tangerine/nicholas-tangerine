@@ -1,5 +1,5 @@
 # About Me
-**RESUME**: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
+**RESUME**: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)<br/>
 please hire me 🥺🙏
 <br/>
 <br/>
@@ -16,9 +16,7 @@ please hire me 🥺🙏
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nicholas-tang-41b928251/
-- **GitHub**: https://github.com/nicholas-tangerine/
-- **Insta**: [@nicholas.tang_](https://www.instagram.com/nicholas.tang_/)
+- **LinkedIn**: https://www.linkedin.com/in/nicholas-tang-/
 
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
