@@ -3,6 +3,12 @@
 - <ins>**UCSC (Undergrad):**</ins>
 - **Start**: September 2024
 - **Expected Graduation**: June 2027
+- **Relevant Coursework**:
+  - Linear Algebra
+  - Multivar Calc
+  - Discrete Math
+  - Computer Systems and Assembly Language
+  - 
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
