@@ -1,13 +1,10 @@
 # About Me
+## [RESUME](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)
 ## Education:
 - <ins>**UCSC (Undergrad):**</ins>
 - **Start**: September 2024
 - **Expected Graduation**: June 2027
 - **Relevant Coursework**:
-  - Linear Algebra
-  - Multivar Calc
-  - Discrete Math
-  - Computer Systems and Assembly Language
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
