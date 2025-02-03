@@ -9,8 +9,8 @@ please hire me 🥺🙏
 
 ## Education:
 - <ins>**UCSC (Undergrad):**</ins>
-- __B.S. Computer Science__
-- __Electrical Engineering Minor__
+- <ins>B.S. Computer Science</ins>
+- <ins>Electrical Engineering Minor<ins/>
 - **Start**: September 2024
 - **Expected Graduation**: June 2027
 
