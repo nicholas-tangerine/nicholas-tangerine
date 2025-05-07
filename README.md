@@ -1,10 +1,13 @@
-# RESUME: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)<br/>
-please hire me 🥺🙏
+## In Progress
+ - vim best editor
+ - reach out for some cool macros :wq
+ - begging professors with free labor
 <br/>
 <br/>
 <br/>
 <br/>
 
+RESUME: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)<br/>
 
 ## Education:
 - <ins>**UCSC (Undergrad):**</ins>
