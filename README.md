@@ -18,7 +18,7 @@ RESUME: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8y
 
 ## Contact
 - **Email**: tangnicholas26@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nicholas-tang-/
+- **LinkedIn**: https://www.linkedin.com/in/nicholas-tangerine/
 
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
