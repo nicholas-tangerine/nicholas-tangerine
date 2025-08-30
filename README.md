@@ -1,7 +1,7 @@
 ## In Progress
+ - tracking wind patterns on jupiter and saturn (purely algorithmic, no ML)
  - vim best editor
  - reach out for some cool macros :wq
- - begging professors with free labor
 <br/>
 <br/>
 <br/>
