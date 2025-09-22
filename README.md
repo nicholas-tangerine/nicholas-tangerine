@@ -1,13 +1,11 @@
 ## In Progress
  - tracking wind patterns on jupiter and saturn (purely algorithmic, no ML)
- - vim best editor
- - reach out for some cool macros :wq
 <br/>
 <br/>
 <br/>
 <br/>
 
-RESUME: [click here](https://docs.google.com/document/d/1ATWdLgZeNuuMbrkygXd3X8yK5zObZiCE8n-l3l5jxFM/edit?usp=sharing)<br/>
+RESUME: [click here](https://github.com/nicholas-tangerine/resume/blob/main/resume.pdf)<br/>
 
 ## Education:
 - <ins>**UCSC (Undergrad):**</ins>
