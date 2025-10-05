@@ -1,5 +1,6 @@
 ## In Progress
- - tracking wind patterns on jupiter and saturn (purely algorithmic, no ML)
+ - see some seriously cool stuff here https://github.com/nicholas-tangerine/optical-flow
+    - tracking wind patterns on jupiter and saturn (purely algorithmic, no ML)
 <br/>
 <br/>
 <br/>
