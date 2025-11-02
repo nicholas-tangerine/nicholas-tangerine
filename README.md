@@ -1,24 +1,4 @@
-## In Progress
- - see some seriously cool stuff here https://github.com/nicholas-tangerine/optical-flow
-    - tracking wind patterns on jupiter and saturn (purely algorithmic, no ML)
-<br/>
-<br/>
-<br/>
-<br/>
-
 RESUME: [click here](https://github.com/nicholas-tangerine/resume/blob/main/resume.pdf)<br/>
-
-## Education:
-- <ins>**UCSC (Undergrad):**</ins>
-  - <ins>B.S. Computer Science</ins>
-  - <ins>Electrical Engineering Minor<ins/>
-  - **Start**: September 2024
-  - **Expected Graduation**: June 2027
-
-## Contact
-- **Email**: tangnicholas26@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nicholas-tangerine/
-
 <!--
 **nicholas-tangerine/nicholas-tangerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
